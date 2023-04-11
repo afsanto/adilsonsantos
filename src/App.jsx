@@ -21,7 +21,7 @@ const App = () => {
         
         <script>
         
-        {AddLibrary('flags.js')}
+        {AddLibrary('api/flags.js')}
         </script>
         
           <Navbar />
