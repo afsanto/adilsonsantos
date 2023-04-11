@@ -19,10 +19,10 @@ const App = () => {
         <div className='bg-hero-pattern bg-cover bg-no-repeat bg-center'>
         <div className="gtranslate_wrapper"></div>
         
-        <script>
         
-        {AddLibrary('flags.js')}
-        </script>
+        
+        {AddLibrary('src/flags.js')}
+        
         
           <Navbar />
           <Hero />
