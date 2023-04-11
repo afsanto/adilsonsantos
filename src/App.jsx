@@ -20,7 +20,7 @@ const App = () => {
         <div className="gtranslate_wrapper"></div>
         
         
-        <script type="text/jsx">
+        <script type="javascript">
         {AddLibrary('./src/flags.js')}
         </script>
         
