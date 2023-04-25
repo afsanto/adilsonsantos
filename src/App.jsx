@@ -8,7 +8,7 @@ export function AddLibrary(urlOfTheLibrary) {
   script.src = urlOfTheLibrary;
   script.async = true;
   document.body.appendChild(script);
-  script.type = "text/jsx"
+  
 }
 
 
