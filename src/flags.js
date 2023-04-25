@@ -1,3 +1,4 @@
+
 (function(){var gt=window.gtranslateSettings||{"default_language":"en","languages":
 ["pt","en","ja"],"wrapper_selector":".gtranslate_wrapper","flag_size":24,
 "horizontal_position":"right","vertical_position":"top:10px","alt_flags":{"pt":"brazil"}};
